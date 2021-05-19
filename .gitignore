@@ -1,0 +1,28 @@
+# emacs editor backup
+*.~
+*~
+
+# python
+__pycache__
+
+# scratch files don't go
+scratch*
+
+# files to stay here
+local
+data
+fmm_out
+model_store
+model_out
+older
+sandbox
+submitted
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+#Ipython
+.ipynb_checkpoints/
+

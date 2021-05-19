@@ -1,0 +1,24 @@
+# emacs editor backup
+*~
+*.~
+
+# python
+__pycache__
+
+# scratch files don't go
+scratch*
+
+# files to stay here; no source for these
+.xlsx
+.doc
+.docm
+.pptx
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+#Ipython
+.ipynb_checkpoints/
+
